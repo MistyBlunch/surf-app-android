@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">scoreAppSport</string>
+    <string name="title">Surf App</string>
+    <string name="s1_name">Luis Miranda</string>
+    <string name="s2_name">Pepe el Pollo</string>
+    <string name="score">Score</string>
+    <string name="vote">Vote</string>
+</resources>
