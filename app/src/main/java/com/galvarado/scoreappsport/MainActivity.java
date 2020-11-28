@@ -7,8 +7,8 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
-    Integer rs1 = new Integer(0);
-    Integer rs2 = new Integer(0);
+    Integer rs1 = new Integer(1);
+    Integer rs2 = new Integer(1);
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
